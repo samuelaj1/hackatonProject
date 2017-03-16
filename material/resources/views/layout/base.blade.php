@@ -9,7 +9,7 @@
     <title>Financial | Inclusion</title>
     <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
     <meta name="viewport" content="width=device-width" />
-    
+    hiihi
     <!-- Bootstrap core CSS     -->
 {{--      <link href="{{asset('assets/css/camera.css')}}" rel="stylesheet" />
  --}}    <link href="{{asset('assets/css/bootstrap.min.css')}}" rel="stylesheet" />
@@ -22,7 +22,7 @@
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Material+Icons" />
     <link rel="stylesheet" type="text/css" href="{{asset('assets/css/custom.css')}}">
 </head>
-
+ksdlklhkslh
 <body>
     @yield('content')
     @yield('preferences')
