@@ -1,6 +1,5 @@
 <!doctype html>
 <html lang="en">
-yes i juxt
 <!-- Mirrored from demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 23 Feb 2017 16:06:21 GMT -->
 <head>
     <meta charset="utf-8" />
